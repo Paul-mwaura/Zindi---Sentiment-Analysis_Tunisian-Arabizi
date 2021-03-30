@@ -32,14 +32,14 @@ SampleSubmission.csv - is an example of what your submission file should look li
 
 
 ## Technologies Used
-> Sklearn
-> Nltk
-> Keras
-> Matplotlib
-> Numpy
-> Seaborn
-> Python
-> Jupyter Notebook
+* Sklearn
+* Nltk
+* Keras
+* Matplotlib
+* Numpy
+* Seaborn
+* Python
+* Jupyter Notebook
 
 ## Known Bugs.
 {There are no known bugs}
